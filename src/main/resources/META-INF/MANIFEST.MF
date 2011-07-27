@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Rasea Team
+Build-Jdk: @jdk.version@
+Specification-Title: Rasea Seam Agent implementation
+Specification-Version: @project.release@
+Implementation-Title: Rasea Seam Agent implementation
+Implementation-Version: @project.release@
+Implementation-Vendor-Id: org.rasea
